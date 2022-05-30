@@ -16,7 +16,7 @@ Didn't reach a full points
 <a href=https://github.com/xiahongchi/Arch-lab-in-csapp> Arch Lab Repository </a>
 
 ## 5TH Cache Lab  
-Part 2 and 3 in the Second Part "trans" unfinished  
+Part 2 and 3 in the Second Part "trans" unfinished  **now private**
 <a href=https://github.com/xiahongchi/Cache-lab-in-csapp> Cache Lab Repository </a>
 
 ## 6TH Shell Lab  
